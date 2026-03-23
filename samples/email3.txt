@@ -1,0 +1,13 @@
+From: no-reply@accounts.google.com
+Subject: Security Alert
+
+Dear User,
+
+We detected a new login to your Google Account from a new device.
+
+If this was you, you can safely ignore this email.
+
+For more details, visit:
+https://myaccount.google.com/security
+
+Google Accounts Team
